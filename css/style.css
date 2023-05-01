@@ -1,0 +1,9 @@
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+ #title, #img-caption {
+    text-align: center;
+ }
